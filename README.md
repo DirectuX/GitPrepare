@@ -14,6 +14,6 @@ Note: append the following section to _thinAir_Tools.ini_
 <pre>
 [GitPrepare]
 Menu=GitPrepare
-CommandLine=%thinbasicinstallpath%\thinbasicc.exe "%thinAirinstallpath%\Tools\GitPrepare\GitPrepare.tbasic " %sourcecodefullpathname%
+CommandLine=%thinbasicinstallpath%\thinbasicc.exe "%thinAirinstallpath%\Tools\GitPrepare\GitPrepare.tbasic " %sourcecodefullpathnameext%
 SaveScriptBefore=true
 </pre>
