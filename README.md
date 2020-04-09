@@ -1,3 +1,7 @@
+###### ***Readme last reviewed at ThinBasic v1.11.4.0***
+
+**This tool should not be necessary anymore. Kept as reference.**
+
 # GitPrepare
 
 ## Why GitPrepare ?
